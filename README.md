@@ -16,13 +16,6 @@
   <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">&nbsp
 </div>
 
-<br>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">&nbsp
-  <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">&nbsp
-</div>
-
 <div align="center">
   <img src="https://img.shields.io/badge/C-339933?style=for-the-badge&logo=Node.js&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/JAVA-000000?style=for-the-badge&logo=express&logoColor=white">&nbsp
@@ -49,6 +42,5 @@
 
 <br>
 
-<div align="center">
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=psb3505&layout=compact)
-</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=psb3505&layout=compact)
+
